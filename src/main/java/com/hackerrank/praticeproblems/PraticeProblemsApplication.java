@@ -20,6 +20,8 @@ public class PraticeProblemsApplication {
 //         {8, 1},
 //         {10, 0},
 //         {5, 0}}));
+      //System.out.println(AlternatingCharacters.alternatingCharacters("AAAAA"));
+      System.out.println(MakingAnagrams.makingAnagrams("abc", "cde"));
    }
 
 }
