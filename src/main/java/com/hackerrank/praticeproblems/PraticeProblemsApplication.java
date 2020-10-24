@@ -21,7 +21,8 @@ public class PraticeProblemsApplication {
 //         {10, 0},
 //         {5, 0}}));
       //System.out.println(AlternatingCharacters.alternatingCharacters("AAAAA"));
-      System.out.println(MakingAnagrams.makingAnagrams("abc", "cde"));
+      //System.out.println(MakingAnagrams.makingAnagrams("abc", "cde"));
+      System.out.println(MaximumToys.maximumToys(new int[]{1, 12, 5, 111, 200, 1000, 10}, 50));
    }
 
 }
