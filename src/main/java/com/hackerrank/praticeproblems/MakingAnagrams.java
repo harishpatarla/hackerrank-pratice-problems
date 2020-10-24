@@ -1,7 +1,7 @@
 package com.hackerrank.praticeproblems;
 
 public class MakingAnagrams {
-   static int makingAnagrams(String s1, String s2) {
+   public static int makingAnagrams(String s1, String s2) {
       int minDeletions = 0;
 
       int[] a_frequencies = new int[26];
