@@ -1,7 +1,7 @@
 package com.hackerrank.praticeproblems;
 
 public class AlternatingCharacters {
-   static int alternatingCharacters(String s) {
+      static int alternatingCharacters(String s) {
       int min_deletions = 0;
       for (int i = 0; i < s.length()-1; i++) {
 
